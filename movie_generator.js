@@ -17,7 +17,7 @@ function randomMovie() {
 };
 
 
-
+// store the idea
 
 
 
