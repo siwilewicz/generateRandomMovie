@@ -1,0 +1,23 @@
+html{
+    text-align: center;
+    background-color: rgb(248, 165, 207);
+}
+
+.main{
+    background-color: hotpink;
+    border: 0.5px solid;
+    border-color: rgb(244, 66, 155);
+
+}
+.main h1{
+    color: rgb(181, 26, 103);
+}
+.display{
+    border: 1.5px solid rgb(244, 66, 155);
+    padding: 18px 20px;
+    color: white;
+}
+button{
+    color: rgb(121, 5, 63);
+    background-color: honeydew;
+}
